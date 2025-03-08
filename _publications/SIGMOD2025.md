@@ -21,7 +21,7 @@ Another nice feature of our new algorithm is that it generates a traditional DAG
 
 ## Supplemental Material
 
-[PDF](https://qichen-wang.github.io/sigmod25.html)
+[PDF](/files/yannakakis+.pdf)
 
 [Quorion Demo System](https://github.com/hkustDB/Quorion)
 
