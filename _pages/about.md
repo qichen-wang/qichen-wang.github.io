@@ -70,6 +70,6 @@ In publications marked with '**\*\***', authors are ordered alphabetically, as a
 
 ## Services
 
-+ **PC Member**: SIGMOD 2026, VLDB 2024, CCS 2024, CIKM 2024
-+ **Journal Reviewer / Referee**: IEEE Transactions on Dependable and Secure Computing (TDSC)
++ **PC Member**: SIGMOD 2026, CIKM 2025, VLDB 2024, CCS 2024, CIKM 2024
++ **Journal Reviewer / Referee**: IEEE Transactions on Dependable and Secure Computing (TDSC), ACM Transactions On Database Systems (TODS) 
 + **External Reviewer**: PODS 2024, VLDB 2023, SIGMOD 2019-2023, ICDT 2019
