@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a postdoc at EPFL, working with Professor [Christoph Koch](https://people.epfl.ch/christoph.koch).  I am also a Research Assistant Professor (on leave) in [Department of Computer Science](https://www.comp.hkbu.edu.hk/v1/) at Hong Kong Baptist University.  I received my PhD degree from the [Department of Computer Science and Technology](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/home), supervised by Professor [Ke Yi](https://www.cse.ust.hk/~yike/).   Before that, I received my Bachelor's Degree in Engineering from the Computer Science Department at Zhejiang University.  During Aug. 2016 to Jan. 2017, I was a research intern in the [Department of Systems Engineering and Engineering Management](https://www.se.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), supervised by Professor [Hong Cheng](https://www1.se.cuhk.edu.hk/~hcheng/) and Professor [Jeffrey Xu Yu](https://www.se.cuhk.edu.hk/people/academic-staff/prof-yu-xu-jeffrey/).   I also worked as a research intern at Alibaba, DAMO Academy from June 2019 to Oct. 2019.
 
- **Looking for Research Assistants, PhD Students, and Postdoc Research Fellows.  Please find the following post(/posts/2025/05/hiring-1) and feel free to email me your CV and related materials.** 
+ **Looking for Research Assistants, PhD Students, and Postdoc Research Fellows.  Please find the following [post](/posts/2025/05/hiring-1) and feel free to email me your CV and related materials.** 
 
 ## Research interest
 
