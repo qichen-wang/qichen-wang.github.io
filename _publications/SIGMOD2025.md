@@ -5,7 +5,7 @@ permalink: /publication/SIGMOD2025
 excerpt: '**Qichen Wang**, Bingnan Chen, Binyang Dai, Ke Yi, Feifei Li and Liang Lin'
 date: 2025-06-20
 venue: 'ACM SIGMOD International Conference on Management of Data (<b>SIGMOD</b>)'
-paperurl: '/files/V2MOD168.pdf'
+paperurl: '/files/yannakakis+.pdf'
 pubtype: 'conference'
 ---
 
@@ -25,6 +25,7 @@ Another nice feature of our new algorithm is that it generates a traditional DAG
 
 [Quorion Demo System](https://github.com/hkustDB/Quorion)
 
+[Quorion Demo Paper](/publications/VLDB25Demo)
 
 <!-- citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 This paper is about the number 2. The number 3 is left for future work.
