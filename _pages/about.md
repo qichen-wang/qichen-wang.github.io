@@ -41,7 +41,7 @@ In publications marked with '**\*\***', authors are ordered alphabetically, as a
 
 ### Demo papers
 
-+ [**Query running too slow? Rewrite it with Quorion!**](/publication/VLDB2025Demo) <br> Bingnan Chen, Binyang Dai, **Qichen Wang**, and Ke Yi. <br> International Conference on Very Large Data Bases (**VLDB**), September 2025. System demonstration. <br> <img src="/images/artifacts_available_dl.jpg" width="5%"/>
++ [**Query running too slow? Rewrite it with Quorion!**](/publication/VLDB25Demo) <br> Bingnan Chen, Binyang Dai, **Qichen Wang**, and Ke Yi. <br> International Conference on Very Large Data Bases (**VLDB**), September 2025. System demonstration. <br> <img src="/images/artifacts_available_dl.jpg" width="5%"/>
 
 + [**SparkSQL+: Next-generation Query Planning over Spark.**](/publication/SIGMOD23Demo) <br> Binyang Dai, **Qichen Wang**, and Ke Yi. <br> ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2023. System demonstration. 
  
