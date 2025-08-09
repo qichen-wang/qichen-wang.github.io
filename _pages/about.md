@@ -41,6 +41,8 @@ In publications marked with '**\*\***', authors are ordered alphabetically, as a
 
 ### Demo papers
 
++ [**Query running too slow? Rewrite it with Quorion!**](/publication/VLDB2025Demo) <br> Bingnan Chen, Binyang Dai, **Qichen Wang**, and Ke Yi. <br> International Conference on Very Large Data Bases (**VLDB**), September 2025. System demonstration. <br> <img src="/images/artifacts_available_dl.jpg" width="5%"/>
+
 + [**SparkSQL+: Next-generation Query Planning over Spark.**](/publication/SIGMOD23Demo) <br> Binyang Dai, **Qichen Wang**, and Ke Yi. <br> ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2023. System demonstration. 
  
 + [**Cquirrel: Continuous Query Processing over Acyclic Relational Schemas.**](/publication/VLDB21) <br> **Qichen Wang**, Chaoqi Zhang, Danish Alsayed, Ke Yi, Bin Wu, Feifei Li, and Chaoqun Zhan. <br> International Conference on Very Large Data Bases (**VLDB**), August 2021. System demonstration. <br> <img src="/images/artifacts_available_dl.jpg" width="5%"/>
@@ -70,7 +72,7 @@ In publications marked with '**\*\***', authors are ordered alphabetically, as a
 
 ## Services
 
-+ **PC Member**: SIGMOD 2026, CIKM 2025, VLDB 2024, CCS 2024, CIKM 2024
++ **PC Member**: SIGMOD 2026, VLDB 2024, CCS 2024, CIKM 2024-2025
 + **Journal Review Board**: ACM Transactions On Database Systems (TODS)
 + **Journal Reviewer / Referee**: IEEE Transactions on Dependable and Secure Computing (TDSC)
 + **External Reviewer**: PODS 2024, VLDB 2023, SIGMOD 2019-2023, ICDT 2019
