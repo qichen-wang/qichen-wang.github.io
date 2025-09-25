@@ -49,6 +49,8 @@ In publications marked with '**\*\***', authors are ordered alphabetically, as a
 
 ### Journal papers
 
++ [**Conjunctive Queries with Comparisons.**](/publication/TODS2025) <br>  **Qichen Wang** and Ke Yi. <br> ACM Transactions On Database Systems (**TODS**), 2025. <br> **(Invited as best of SIGMOD 2022)**
+
 + [**Conjunctive Queries with Comparisons. [extended abstract]**](/publication/SIGMODRecord2022) <br>  **Qichen Wang** and Ke Yi. <br> SIGMOD Record, March 2023. <br> **(Special issue on the 2022 ACM SIGMOD Research Highlight Award.)**
 
 ### Patent
