@@ -18,9 +18,12 @@ Database Theory and Algorithms; Streaming Processing; Distributed and Parallel C
 
 ## Selected Publications
 
-In publications marked with '**\*\***', authors are ordered alphabetically, as a convention of theory papers.  In the other publications, authors are ordered by contribution.
+In publications marked with '**\*\***', authors are ordered alphabetically, as a convention of theory papers.  In other publications, authors are listed in order of contribution.
 
 ### Conference papers
+
++ [**Database Theory in Action: Yannakakis’ Algorithm.**]() **\*\*** <br> Paraschos Koutris, Stijn Vansummeren, **Qichen Wang**, Yisu Remy Wang and Xiangyao Yu. <br> International Conference on Database Theory (**ICDT**), March 2026, Short Survey of recent advances based on Yannakakis Algorithm.	
+
 + [**Towards Update-Dependent Analysis of Query Maintenance.**](/publication/PODS2025) **\*\*** <br> Xiao Hu and **Qichen Wang**. <br> ACM Symposium on Principles of Database Systems (**PODS**), June 2025.
 
 + [**Yannakakis+: Practical Acyclic Query Evaluation with Theoretical Guarantees.**](/publication/SIGMOD2025) <br> **Qichen Wang**, Bingnan Chen, Binyang Dai, Ke Yi, Feifei Li and Liang Lin. <br> ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2025. 
@@ -37,7 +40,11 @@ In publications marked with '**\*\***', authors are ordered alphabetically, as a
 
 + [**Maintaining Acyclic Foreign-Key Joins Under Updates.**](/publication/SIGMOD2020) <br> **Qichen Wang** and Ke Yi. <br>  ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2020.
 
-+ [**Efficient Computation of a Near-Maximum Independent Set over Evolving Graphs.**](/publication/ICDE18) <br> Weiguo Zheng, **Qichen Wang**, Jeffrey Xu Yu, Hong Cheng, and Lei Zou. <br> IEEE International Conference on Data Engineering (**ICDE**), April 2018.
+### Journal papers
+
++ [**Conjunctive Queries with Comparisons.**](/publication/TODS2025) <br>  **Qichen Wang** and Ke Yi. <br> ACM Transactions On Database Systems (**TODS**), 2025. <br> **(Invited as best of SIGMOD 2022)**
+
++ [**Conjunctive Queries with Comparisons. [extended abstract]**](/publication/SIGMODRecord2022) <br>  **Qichen Wang** and Ke Yi. <br> SIGMOD Record, March 2023. <br> **(Special issue on the 2022 ACM SIGMOD Research Highlight Award.)**
 
 ### Demo papers
 
@@ -47,29 +54,14 @@ In publications marked with '**\*\***', authors are ordered alphabetically, as a
  
 + [**Cquirrel: Continuous Query Processing over Acyclic Relational Schemas.**](/publication/VLDB21) <br> **Qichen Wang**, Chaoqi Zhang, Danish Alsayed, Ke Yi, Bin Wu, Feifei Li, and Chaoqun Zhan. <br> International Conference on Very Large Data Bases (**VLDB**), August 2021. System demonstration. <br> <img src="/images/artifacts_available_dl.jpg" width="5%"/>
 
-### Journal papers
-
-+ [**Conjunctive Queries with Comparisons.**](/publication/TODS2025) <br>  **Qichen Wang** and Ke Yi. <br> ACM Transactions On Database Systems (**TODS**), 2025. <br> **(Invited as best of SIGMOD 2022)**
-
-+ [**Conjunctive Queries with Comparisons. [extended abstract]**](/publication/SIGMODRecord2022) <br>  **Qichen Wang** and Ke Yi. <br> SIGMOD Record, March 2023. <br> **(Special issue on the 2022 ACM SIGMOD Research Highlight Award.)**
-
-### Patent
-
-+ Data processing method and device, program product, and storage medium, CN113448969B
-
 
 ## Selected Awards
 
 + ACM SIGMOD Research Highlight Award, 2022, ACM SIGMOD
-
 + HKUST CSE Best PhD Dissertation Award Honorable Mention, 2022, HKUST
-
 + ACM SIGMOD Best Paper Honorable Mention award, 2022, ACM SIGMOD
-
 + RedBird Academic Excellence Award for PhD Student, 2022, HKUST
-
 + Postgraduate Studentship, 2017-2021, HKUST
-
 + Scholarship for Elite Students in Basic Science, 2013-2016, Zhejiang University
 
 ## Services
