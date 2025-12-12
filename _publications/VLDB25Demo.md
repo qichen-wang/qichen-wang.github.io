@@ -2,7 +2,7 @@
 title: "Query running too slow? Rewrite it with Quorion!"
 collection: publications
 permalink: /publication/VLDB25Demo
-excerpt: Bingnan Chen, Binyang Dai,'**Qichen Wang**, Ke Yi.'
+excerpt: Bingnan Chen, Binyang Dai,**Qichen Wang**, Ke Yi.
 date: 2021-08-01
 venue: 'International Conference on Very Large Data Bases (<b>VLDB</b>)'
 paperurl: 'PLACEHOLDER'
