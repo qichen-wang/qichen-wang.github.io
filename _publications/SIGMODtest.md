@@ -1,7 +1,7 @@
 ---
 title: "Conjunctive Queries with Comparisons. Test"
 collection: publications
-permalink: /publication/SIGMOD2022
+permalink: /publication/SIGMODtest
 excerpt: '**Qichen Wang** and Ke Yi.'
 date: 2022-09-01
 venue: 'ACM SIGMOD International Conference on Management of Data (<b>SIGMOD</b>)'
