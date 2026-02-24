@@ -23,6 +23,8 @@ In publications marked with '**\*\***', authors are ordered alphabetically, as a
 
 ### Conference papers
 
++ [**Succinct Structure Representations for Efficient Query Optimization .**](/publication/SIGMOD2026) <br> Zhekai Jiang **\*\***, **Qichen Wang** **\*\*** and Christoph Koch. <br> ACM SIGMOD International Conference on Management of Data (**SIGMOD**), May 2026. 
+
 + [**Size Bound-Adorned Datalog.**]() **\*\*** <br> Christian Fattebert, Zhekai Jiang, Christoph Koch, Reinhard Pichler and **Qichen Wang**. <br> ACM Symposium on Principles of Database Systems (**PODS**), May 2026. 
 
 + [**Database Theory in Action: Yannakakis’ Algorithm.**]() **\*\*** <br> Paraschos Koutris, Stijn Vansummeren, **Qichen Wang**, Yisu Remy Wang and Xiangyao Yu. <br> International Conference on Database Theory (**ICDT**), March 2026, Short Survey of recent advances based on Yannakakis Algorithm.
