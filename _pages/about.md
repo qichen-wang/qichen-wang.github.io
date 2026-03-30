@@ -27,9 +27,9 @@ In publications marked with '**\*\***', authors are ordered alphabetically, as a
 
 + [**Succinct Structure Representations for Efficient Query Optimization .**](https://arxiv.org/abs/2603.15465) <br> Zhekai Jiang **\*\***, **Qichen Wang** **\*\*** and Christoph Koch. <br> ACM SIGMOD International Conference on Management of Data (**SIGMOD**), May 2026. 
 
-+ [**Size Bound-Adorned Datalog.**](https://arxiv.org/abs/2603.15425) **\*\*** <br> Christian Fattebert, Zhekai Jiang, Christoph Koch, Reinhard Pichler and **Qichen Wang**. <br> ACM Symposium on Principles of Database Systems (**PODS**), May 2026. 
++ [**Size Bound-Adorned Datalog.**](/publication/PODS20261) **\*\*** <br> Christian Fattebert, Zhekai Jiang, Christoph Koch, Reinhard Pichler and **Qichen Wang**. <br> ACM Symposium on Principles of Database Systems (**PODS**), May 2026. 
 
-+ [**Database Theory in Action: Yannakakis’ Algorithm.**]() **\*\*** <br> Paraschos Koutris, Stijn Vansummeren, **Qichen Wang**, Yisu Remy Wang and Xiangyao Yu. <br> International Conference on Database Theory (**ICDT**), March 2026, Short Survey of recent advances based on Yannakakis Algorithm.
++ [**Database Theory in Action: Yannakakis’ Algorithm.**](/publication/ICDT2026) **\*\*** <br> Paraschos Koutris, Stijn Vansummeren, **Qichen Wang**, Yisu Remy Wang and Xiangyao Yu. <br> International Conference on Database Theory (**ICDT**), March 2026, <br> Short Survey of recent advances based on Yannakakis Algorithm.
   You can also check out the [post](https://remy.wang/blog/ya-fast.html) from Remy for the discussion.
 
 + [**Towards Update-Dependent Analysis of Query Maintenance.**](/publication/PODS2025) **\*\*** <br> Xiao Hu and **Qichen Wang**. <br> ACM Symposium on Principles of Database Systems (**PODS**), June 2025.
