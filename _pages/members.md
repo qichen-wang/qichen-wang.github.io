@@ -13,6 +13,8 @@ author_profile: true
 ### Postdocs
 [Dr. Xu, Lyu](https://cslyuxu.github.io/), PhD, Hong Kong Baptist University
 ### PhD Students
-### Visiting Students
 
 ## Alumni
+
+## Visiting Students
+[Xinyi, Zhang](https://linekm.github.io/), PhD, Hong Kong Baptist University, 2026, Topic: Learned Indexes for Query Optimization
