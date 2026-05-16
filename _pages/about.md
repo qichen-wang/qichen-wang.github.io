@@ -65,6 +65,7 @@ In publications marked with '**\*\***', authors are ordered alphabetically, as a
 
 ## Selected Awards
 
++ ACM SIGMOD Outstanding Reviewer Award (4 from all reviewers), 2026, ACM SIGMOD
 + ACM SIGMOD Research Highlight Award, 2022, ACM SIGMOD
 + HKUST CSE Best PhD Dissertation Award Honorable Mention, 2022, HKUST
 + ACM SIGMOD Best Paper Honorable Mention award, 2022, ACM SIGMOD
