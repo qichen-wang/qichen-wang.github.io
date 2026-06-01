@@ -11,7 +11,7 @@ class: wide
 
 I am currently a Tenure-Track Assistant Professor at Nanyang Technological University.  Prior to joining NTU in September 2025, I was a postdoc at EPFL between Sept. 2024 and Aug. 2025, working with Professor [Christoph Koch](https://people.epfl.ch/christoph.koch).  I was also a Research Assistant Professor in [Department of Computer Science](https://www.comp.hkbu.edu.hk/v1/) at Hong Kong Baptist University between Sept. 2022 and Aug. 2024.  I received my PhD degree from the [Department of Computer Science and Technology](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/home), supervised by Professor [Ke Yi](https://www.cse.ust.hk/~yike/).   Before that, I received my Bachelor's Degree in Engineering from the Computer Science Department at Zhejiang University.  During Aug. 2016 to Jan. 2017, I was a research intern in the [Department of Systems Engineering and Engineering Management](https://www.se.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), supervised by Professor [Hong Cheng](https://www1.se.cuhk.edu.hk/~hcheng/) and Professor [Jeffrey Xu Yu](https://www.se.cuhk.edu.hk/people/academic-staff/prof-yu-xu-jeffrey/).   I also worked as a research intern at Alibaba, DAMO Academy from June 2019 to Oct. 2019.
 
- **Looking for Research Assistants, PhD Students, and Postdoc Research Fellows.  Please find the following [post](/posts/2025/05/hiring-1) and feel free to email me your CV and related materials.** 
+ **Looking for Research Assistants, PhD Students, and visiting students.  Please find the following [post](/posts/2026/06/hiring-2) and feel free to email me your CV and related materials.** 
 
 ## Research interest
 
