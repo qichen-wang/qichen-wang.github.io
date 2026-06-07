@@ -18,4 +18,5 @@ author_profile: true
 
 ## Visiting Students
 [Zhang, Xinyi](https://linekm.github.io/), PhD, Hong Kong Baptist University, 2026, Topic: Learned Indexes for Query Optimization
+
 Gabdushev, Kassym, UG, Hong Kong Baptist University, 2026, Topic: Incremental View Maintenance
