@@ -76,5 +76,5 @@ In publications marked with '**\*\***', authors are ordered alphabetically, as a
 ## Services
 
 + **Proceedings/Publicity Chairs**: PODS 2027
-+ **PC Member**: SIGMOD 2026-2027, ICDT 2027, VLDB 2024, CCS 2024, CIKM 2024-2025
++ **PC Member**: SIGMOD 2026-2027, ICDT 2027, VLDB 2024/2027, CCS 2024, CIKM 2024-2025
 + **Journal Review Board**: ACM Transactions On Database Systems (TODS)
