@@ -13,6 +13,8 @@ author_profile: true
 ### Postdocs
 [Dr. Xu, Lyu](https://cslyuxu.github.io/), PhD, Hong Kong Baptist University
 ### PhD Students
+[Li, Zizhen](), Since 2026
+[Zeng, Yi](), Since 2026
 
 ## Alumni
 
