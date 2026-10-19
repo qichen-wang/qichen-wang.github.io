@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "Qichen Wang"
 excerpt: "About me"
