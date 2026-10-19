@@ -1,4 +1,3 @@
-<img width="414" height="92" alt="image" src="https://github.com/user-attachments/assets/c6e76a96-3c56-4d8d-bc6e-a15cbeb3e1ae" />---
 permalink: /
 title: "Qichen Wang"
 excerpt: "About me"
