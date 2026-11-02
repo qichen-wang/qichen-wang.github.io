@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Qichen Wang"
 title_separator          : "-"
-name                     : &name "Qicchen Wang"
+name                     : &name "Qichen Wang"
 description              : &description "My personal homepage"
 url                      : https://qichen-wang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
