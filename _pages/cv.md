@@ -11,7 +11,7 @@ redirect_from:
 
 Academic Positions
 ======
-* Tenure-Track Assistant Professor, College of Computing and Data Sciecne, Nanyang Technological University, 2025-now
+* Tenure-Track Assistant Professor, College of Computing and Data Science, Nanyang Technological University, 2025-now
 
 * Postdoctoral Fellow, School of Computer and Communication Sciences, École Polytechnique Fédérale de Lausanne, 2024-2025
   * Supervisor: Prof. [Christoph Koch](https://people.epfl.ch/christoph.koch)

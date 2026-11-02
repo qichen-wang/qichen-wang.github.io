@@ -25,6 +25,8 @@ In publications marked with '**\*\***', authors are ordered alphabetically, as a
 
 ### Conference papers
 
++ [**ObliGraph: Graph Pattern Query Processing with Full and Differential Obliviousness.**](/publication/VLDB2027) <br> Lyu Xu, Xinyi Zhang and **Qichen Wang**. <br> International Conference on Very Large Data Bases (**VLDB**), 2027. To appear.
+
 + [**Towards Parameterized Hardness on Maintaining Conjunctive Queries**](/publication/PODS20262) <br> **Qichen Wang**. <br> ACM Symposium on Principles of Database Systems (**PODS**), May 2026. 
 
 + [**Succinct Structure Representations for Efficient Query Optimization .**](/publication/SIGMOD2026) <br> Zhekai Jiang **\*\***, **Qichen Wang** **\*\*** and Christoph Koch. <br> ACM SIGMOD International Conference on Management of Data (**SIGMOD**), May 2026. 
